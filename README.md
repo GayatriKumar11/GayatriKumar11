@@ -34,7 +34,7 @@
 
 <img align="left" alt="AWS" width="35px" src="https://simpleicons.org/icons/amazonaws.svg](https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-1024.png)" />
 
-<img align="left" alt="TypeScript" width="35px" src="https://simpleicons.org/icons/typescript.svg](https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-3/15/typescript-1024.png)" />
+<img align="left" alt="TypeScript" width="35px" src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-3/15/typescript-1024.png" />
 
 <img align="left" alt="Tableau" width="35px" src="https://simpleicons.org/icons/tableau.svg" />
 
