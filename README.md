@@ -38,7 +38,7 @@
 
 <img align="left" alt="Tableau" width="35px" src="https://simpleicons.org/icons/tableau.svg" />
 
-<img align="left" alt="Figma" width="35px" src="https://s3-alpha.figma.com/hub/file/2714591175/e1906d9b-540d-4ebd-b432-a8cf00472848-cover.png" />
+<img align="left" alt="Figma" width="35px" src="https://vectorlogoseek.com/wp-content/uploads/2020/06/figma-vector-logo.png" />
 
 <img align="left" alt="React.js" width="35px" src="https://simpleicons.org/icons/react.svg" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
