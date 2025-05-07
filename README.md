@@ -21,8 +21,6 @@
 - 💻 Passionate software developer and data enthusiast with 3 years of diverse experience
 - 🚀 Dedicated to developing solutions with best-practice technologies for optimal user experiences
 - 🎨 Dancer, and 🧑‍🏫 Mentor beyond the coding realm
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I thrive on connecting with different people 🤝
 <br>
 
 ### Languages and Tools: 
